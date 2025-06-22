@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Daksh Bhavsar</h1>
+<h1 align="center">Hi there 👋, I'm Bhavsar Daksh </h1>
 <h3 align="center">🚀 DevOps Engineer | ☁️ AWS Cloud | 🐳 Docker & K8s | 🔁 CI/CD | IaC | 🔐 DevSecOps</h3>
 
 ---
