@@ -31,12 +31,11 @@ I specialize in **CI/CD pipelines**, **containerized deployments**, **Infrastruc
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" alt="GitLab"/>
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" alt="Jenkins"/>
-  <img src="https://www.vectorlogo.zone/logos/githubactions/githubactions-icon.svg" width="40" alt="GitHub Actions"/>
 </p>
 
 #### 🔐 DevSecOps & Monitoring
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Sonarqube_logo.png" width="40" alt="SonarQube"/>
+<img src="https://static.cdnlogo.com/logos/s/58/sonarqube.svg" width="40" alt="SonarQube"/>
   <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="40" alt="Prometheus"/>
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" alt="Grafana"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux"/>
