@@ -20,7 +20,7 @@ I specialize in **CI/CD pipelines**, **containerized deployments**, **Infrastruc
 
 #### ☁️ Cloud & IaC
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" alt="AWS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" alt="AWS"/>
   <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40" alt="Terraform"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" alt="Kubernetes"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/>
@@ -36,7 +36,7 @@ I specialize in **CI/CD pipelines**, **containerized deployments**, **Infrastruc
 
 #### 🔐 DevSecOps & Monitoring
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/sonarsource/sonarsource-icon.svg" width="40" alt="SonarQube"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Sonarqube_logo.png" width="40" alt="SonarQube"/>
   <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="40" alt="Prometheus"/>
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" alt="Grafana"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux"/>
@@ -65,4 +65,4 @@ I specialize in **CI/CD pipelines**, **containerized deployments**, **Infrastruc
 
 ---
 
-*Built with ❤️ by Daksh Bhavsar*
+*Built with ❤️ by Bhavsar Daksh*
