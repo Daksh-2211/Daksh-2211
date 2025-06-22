@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Bhavsar Daksh </h1>
+<h1 align="center">Hi there 👋, I'm Bhavsar Daksh </h1> 
 <h3 align="center">🚀 DevOps Engineer | ☁️ AWS Cloud | 🐳 Docker & K8s | 🔁 CI/CD | IaC | 🔐 DevSecOps</h3>
 
 ---
@@ -12,52 +12,43 @@ I specialize in **CI/CD pipelines**, **containerized deployments**, **Infrastruc
 
 #### 👨‍💻 Languages & Frameworks
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
 </p>
 
 #### ☁️ Cloud & IaC
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" alt="AWS"/>
+  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40" alt="Terraform"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" alt="Kubernetes"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/>
 </p>
 
 #### 🔄 CI/CD & Automation
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/githubactions/githubactions-icon.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" alt="GitLab"/>
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" alt="Jenkins"/>
+  <img src="https://www.vectorlogo.zone/logos/githubactions/githubactions-icon.svg" width="40" alt="GitHub Actions"/>
 </p>
 
 #### 🔐 DevSecOps & Monitoring
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/sonarqube/sonarqube-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
-</p>
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Daksh-2211&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Daksh-2211&theme=radical" />
+  <img src="https://www.vectorlogo.zone/logos/sonarsource/sonarsource-icon.svg" width="40" alt="SonarQube"/>
+  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="40" alt="Prometheus"/>
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" alt="Grafana"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux"/>
 </p>
 
 ---
 
 ### 📫 How to reach me?
 
-- 💼 LinkedIn: [Daksh Bhavsar](https://www.linkedin.com/in/dakshbhavsar)
-- 🐦 Twitter: [@Daksh_Bhavsar](https://twitter.com/Daksh_Bhavsar)
-- 📷 Instagram: [@daksh.devops](https://www.instagram.com/daksh.devops)
+- 💼 LinkedIn: [Daksh Bhavsar](https://www.linkedin.com/in/bhavsar-daksh-devops/)
+- 🐦 Twitter: [@Daksh_Bhavsar](https://twitter.com/Daksh_2211)
+- 📷 Instagram: [@daksh.devops](https://www.instagram.com/dev___2211)
 - 📧 Email: bhavsardaksh07@gmail.com
 
 ---
